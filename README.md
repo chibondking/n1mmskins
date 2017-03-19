@@ -13,9 +13,6 @@ I used the N1MM Low Vision mode as a start. Obviously I scaled the font sizes do
 from there, but if necessary I'm sure you can resize them back up to fit the
 Low Vision scheme.
 
-![WT2P BARTG RTTY SO2R layout](https://www.dropbox.com/s/tepkveb6zu5ek6h/WT2P%20BARTG%20RTTY.png?dl=0)
-
-
 ##Themes
 Currently I have 3 themes I came up with to use:
 * Black
