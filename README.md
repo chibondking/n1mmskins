@@ -79,19 +79,27 @@ white outline (with my Black theme) of each of the controls. That is likely embe
 within the software controls used and as of now, cannot be changed. You can see
 this prominently in the screenshots.
 
-* Visual Dupesheet: Color schemes are not applied
+* Visual Dupesheet: At first, the color scheme is not applied, however after some time
+it will take effect. The black text (as seen in the Screenshots section) does not invert.
+Closing/reopening the dupesheet temporarily fixes this.
 
 * Digital Interface Windows: Many of the various button foreground text colors on
 the main DI Windows will not invert colors when using a dark theme. Easily visible
 in the screenshots. Also, the text entry window foreground text is also not inverted
 which if you're manually typing data will make it hard to see.
 
+* NOT TESTED: WAE QTC Windows. I'll get around to it.
+
+* If you find any glitches, please let me know so I can add it to the list. Hopefully?
+in time these issues can be addressed in the program and it would be nice to have a "wish list"
+of items.
+
 ## Other Resources
 [N1MM Logger Plus](https://n1mm.hamdocs.com/tiki-index.php)
 
 ### N1MM Skin Community
 If you have created some custom skins you would like to share, I'd be glad to include
-them (with proper attribution) in this repository. You can send me an email (wt2p at arrl)
+them (with proper attribution) in this repository. You can send me an email (wt2p at arrl dot net)
 or, if you're technically inclined, fork this repo, add your skins (or make changes to/expand on mine)
 and send me a Github pull request.
 
