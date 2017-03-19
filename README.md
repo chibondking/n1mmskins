@@ -21,8 +21,21 @@ Currently I have 4 themes I came up with to use:
 * Default with Blue Buttons (default N1MM scheme, just with dark blue Entry Window buttons)
 
 ## Installation
-Download the zip file of the themes here. Unzip and copy each of the files to your
-N1MM Logger\SkinsAndLayouts directory (usually found under My Documents\N1MM Logger +\SkinsAndLayouts)
+
+### Download: Easy Way
+The latest skin files from this repository are available on my site. Unzip and
+copy each of the .Skin files to your N1MM Logger\SkinsAndLayouts directory
+(usually found under My Documents\N1MM Logger +\SkinsAndLayouts).
+
+[WT2P N1MM Skins - Latest](http://wt2p.com/downloads/wt2p-n1mm-skins-latest.zip)
+
+### Download: You love Github
+
+Download the zip file of this entire repository [Download Zip](https://github.com/chibondking/n1mmskins/archive/master.zip)
+
+Clone this repository.
+
+### Installing Skins in N1MM
 
 In N1MM Logger, go to Config, then Manage Skins, Colors and Fonts.
 
@@ -38,9 +51,9 @@ logger program and once you're done, click Save.
 
 **There are some known minor issues, which I'll discuss below.**
 
-### Manage Skins, colors and Fonts Window Extra Detail
+#### Manage Skins, colors and Fonts Window Extra Detail
 
-### Fonts:
+#### Fonts:
 **Entry Window Callsign**: Franklin Gothic, Medium, 16pt
 
 **Medium - screen text and tables**: Arial, Regular, 12pt
@@ -108,6 +121,8 @@ of items.
 ## Other Resources
 [N1MM Logger Plus](https://n1mm.hamdocs.com/tiki-index.php)
 
+[WT2P Contest](http://wt2p.com/ham-radio)
+
 ### N1MM Skin Community
 If you have created some custom skins you would like to share, I'd be glad to include
 them (with proper attribution) in this repository. You can send me an email (wt2p at arrl dot net)
@@ -117,6 +132,10 @@ and send me a Github pull request.
 ### Screenshots
 I have uploaded screenshots of many of the current N1MM Logger windows to the screenshots
 directory in this repo as well. Take a look to see how the theme(s) look on Windows 10.
+
+### To-Do for Me
+* Setup nightly cron job to pull latest master branch, zip all skin files and make
+sure the latest fresh version is on my website.
 
 73,
 CJ - WT2P
