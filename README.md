@@ -14,10 +14,11 @@ from there, but if necessary I'm sure you can resize them back up to fit the
 Low Vision scheme.
 
 ## Themes
-Currently I have 3 themes I came up with to use:
+Currently I have 4 themes I came up with to use:
 * Black
-* Dark (blue)
-* Dark 2 (darker shades of blue)
+* Blue 1 (Hue 140, Sat 240, Lum 25 - R 0, G 27, B 53)
+* Blue 2 (A darker blue, almost black version of Blue 1 - Hue 139, Sat 240, Lum 10 - R 0, G 11, B 21)
+* Default with Blue Buttons (default N1MM scheme, just with dark blue Entry Window buttons)
 
 ## Installation
 Download the zip file of the themes here. Unzip and copy each of the files to your
@@ -87,6 +88,16 @@ Closing/reopening the dupesheet temporarily fixes this.
 the main DI Windows will not invert colors when using a dark theme. Easily visible
 in the screenshots. Also, the text entry window foreground text is also not inverted
 which if you're manually typing data will make it hard to see.
+
+* Move Multipliers Window: Mode column foreground text does not invert.
+
+* Info Window: If score reporting is set, score reporting status message foreground text
+(black) does not invert.
+
+* Dark Blue Themes
+  * Network status window, Options Tab: Run1, Run2 Mult radio button text does not invert.
+  * Network status window, Options Tab: Block my transmitter only if other station transmitting
+  on same band and mode (multi-one) checkbox text does not invert.
 
 * NOT TESTED: WAE QTC Windows. I'll get around to it.
 
