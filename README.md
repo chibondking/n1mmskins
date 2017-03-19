@@ -41,14 +41,19 @@ logger program and once you're done, click Save.
 
 ### Fonts:
 **Entry Window Callsign**: Franklin Gothic, Medium, 16pt
+
 **Medium - screen text and tables**: Arial, Regular, 12pt
+
 **Small - most labels, Log Window data**: Franklin Gothic, Medium, 11pt
+
 **Smaller - buttons, small labels, Bandmap Window Callsigns**: Franklin Gothic, Medium, 9pt
+
 **Fixed - Digital Interface, Check, Telnet and Score Windows**: Inconsolata, Regular, 10pt
 
 ### Extra Settings:
-Show Form Font Sizers: Unchecked (this is a matter of personal preference)
-Snap Windows to Edges: Checked (again, matter of personal preference)
+**Show Form Font Sizers**: Unchecked (this is a matter of personal preference)
+
+**Snap Windows to Edges**: Checked (again, matter of personal preference)
 
 
 ## Caveats / Known Issues
