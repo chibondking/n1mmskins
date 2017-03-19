@@ -1,0 +1,33 @@
+
+[ApplicationColors]
+ButtonBackColor=-16774379
+CQColor=-256
+CWColor=-128
+DIGIColor=-17921
+DiRxBackColor=-16777216
+DiRxForeColor=-256
+DupeBackColor=-2829100
+DupeColor=-8355712
+FormBackColor=-16777216
+GridAlternateColor=-16770251
+GridMainColor=-16777216
+HighLightColor=-65536
+InfoColor=-128
+MultBackColor=-20304
+MultColor=-41378
+MultiMultBackColor=-15679472
+MultiMultColor=-11210412
+MyCallSignColor=-2180985
+OutOfBandColor=-65536
+QBackColor=-9803059
+QColor=-9321998
+QTCColor=-65536
+SSBColor=-128
+XmitColor=-23296
+
+[ApplicationFonts]
+FixedFont=Inconsolata,9.75,False,False
+LargeFont=Franklin Gothic Medium,15.75,False,False
+MediumFont=Arial,12.00,False,False
+SmallFont=Franklin Gothic Medium,9.00,False,False
+SmallFont2=Franklin Gothic Medium,11.25,False,False
