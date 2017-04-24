@@ -80,23 +80,6 @@ sometime change back to black foreground. Closing and reopening the window fixes
 * Bands and Modes button in the Available Mults Window: This popup still has some
 foreground text in black that does not change with the scheme.
 
-* Info Window: The rate graph text occasionally will default back to Black foreground.
-Again, close and reopen the window to fix. There's also some text that appears to be
-stuck in foreground black.
-
-* Bandmap A / B (in SO2R/SO2V mode): The focused bandmap frequency background correctly
-updates to the correct foreground/background color scheme. The secondary bandmap frequency
-background however will change to white. I have not been able to see where to fix that.
-
-* Entry Windows: Along the top with the Callsign, Sent/Received fields, you can see the
-white outline (with my Black theme) of each of the controls. That is likely embedded
-within the software controls used and as of now, cannot be changed. You can see
-this prominently in the screenshots.
-
-* Visual Dupesheet: At first, the color scheme is not applied, however after some time
-it will take effect. The black text (as seen in the Screenshots section) does not invert.
-Closing/reopening the dupesheet temporarily fixes this.
-
 * Digital Interface Windows: Many of the various button foreground text colors on
 the main DI Windows will not invert colors when using a dark theme. Easily visible
 in the screenshots. Also, the text entry window foreground text is also not inverted
@@ -117,6 +100,26 @@ which if you're manually typing data will make it hard to see.
 * If you find any glitches, please let me know so I can add it to the list. Hopefully?
 in time these issues can be addressed in the program and it would be nice to have a "wish list"
 of items.
+
+### Fixed Issues
+
+* Info Window: The rate graph text occasionally will default back to Black foreground.
+Again, close and reopen the window to fix. There's also some text that appears to be
+stuck in foreground black.
+
+* Bandmap A / B (in SO2R/SO2V mode): The focused bandmap frequency background correctly
+updates to the correct foreground/background color scheme. The secondary bandmap frequency
+background however will change to white. I have not been able to see where to fix that.
+
+* Entry Windows: Along the top with the Callsign, Sent/Received fields, you can see the
+white outline (with my Black theme) of each of the controls. That is likely embedded
+within the software controls used and as of now, cannot be changed. You can see
+this prominently in the screenshots.
+
+* Visual Dupesheet: At first, the color scheme is not applied, however after some time
+it will take effect. The black text (as seen in the Screenshots section) does not invert.
+Closing/reopening the dupesheet temporarily fixes this.
+
 
 ## Other Resources
 [N1MM Logger Plus](https://n1mm.hamdocs.com/tiki-index.php)
