@@ -1,9 +1,9 @@
 
 [ApplicationColors]
-ButtonBackColor=-16774379
+ButtonBackColor=-16777216
 CQColor=-256
 CWColor=-128
-DIGIColor=-17921
+DIGIColor=-25701
 DiRxBackColor=-16777216
 DiRxForeColor=-256
 DupeBackColor=-2829100
@@ -11,7 +11,7 @@ DupeColor=-8355712
 FormBackColor=-16777216
 GridAlternateColor=-16770251
 GridMainColor=-16777216
-HighLightColor=-65536
+HighLightColor=-13781
 InfoColor=-128
 MultBackColor=-20304
 MultColor=-41378
@@ -22,12 +22,19 @@ OutOfBandColor=-65536
 QBackColor=-9803059
 QColor=-9321998
 QTCColor=-65536
-SSBColor=-128
+SSBColor=-16711936
 XmitColor=-23296
 
 [ApplicationFonts]
-FixedFont=Inconsolata,9.75,False,False
-LargeFont=Franklin Gothic Medium,15.75,False,False
-MediumFont=Arial,12.00,False,False
-SmallFont=Franklin Gothic Medium,9.00,False,False
-SmallFont2=Franklin Gothic Medium,11.25,False,False
+FixedFont=Cascadia Code,11.25,True,False
+LargeFont=Cascadia Code SemiBold,20.25,True,False
+MediumFont=Arial,12.00,True,False
+SmallFont=Consolas,11.25,True,False
+SmallFont2=Microsoft Sans Serif,11.25,False,False
+
+[FontSizeAdjustments]
+Log=0
+NetworkStatus=0
+NetworkStatus2=0
+ScoreSummary=0
+SuperCheckPartial=0
